@@ -155,6 +155,42 @@ ML Repository)**와\
     출처: 서울특별시 열린데이터광장, '따릉이 이용정보(시간별)', 
     https://data.seoul.go.kr/dataList/OA-15245/
 
+### 4-3. 전국초중등학교위치표준데이터
+
+    출처: 공공데이터포털, '전국초중등학교위치표준데이터', 
+    https://www.data.go.kr/data/15021148/standard.do
+
+### 4-4. Capital_Bike_Share_Locations_
+
+    출처: District_of_Columbia_Open_Data, 'Capital_Bike_Share_Locations_', 
+    https://rtdc-mwcog.opendata.arcgis.com/datasets/mwcog::capital-bike-share-locations-district-of-columbia-open-data/explore
+
+### 4-5. Metro Bus Stops
+
+    출처: National Capital Region Transportation Planning Board, 'Metro Bus Stops', 
+    https://rtdc-mwcog.opendata.arcgis.com/datasets/mwcog::capital-bike-share-locations-district-of-columbia-open-data/explore
+
+### 4-6. Metro Stations Regional 
+
+    출처: National Capital Region Transportation Planning Board, 'Metro Stations Regional', 
+    https://rtdc-mwcog.opendata.arcgis.com/datasets/mwcog::capital-bike-share-locations-district-of-columbia-open-data/explore
+
+### 4-7. DC_Public_Schools
+
+    출처: District_of_Columbia_Open_Data, 'DC_Public_Schools', 
+    https://opendata.dc.gov/datasets/dc-public-schools/about
+
+### 4-8. DC_Independent Schools
+
+    출처: District_of_Columbia_Open_Data, 'Independent Schools', 
+    https://opendata.dc.gov/datasets/DCGIS::independent-schools/about
+
+### 4-9. Parks_and_Recreation_Areas
+
+    출처: District_of_Columbia_Open_Data, 'Parks_and_Recreation_Areas.geojson', 
+    https://opendata.dc.gov/datasets/DCGIS::parks-and-recreation-areas/about
+
+
 ------------------------------------------------------------------------
 
 ## ✔ 최종 요약
